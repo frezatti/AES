@@ -1,4 +1,4 @@
-# AES (Advanced Encryption Standard) implementado em C, seguindo o FIPS 197, em código simples (estilo “amador”) para fins educacionais.
+# AES (Advanced Encryption Standard) implementado em C, seguindo o FIPS 197.
 
 ---
 
